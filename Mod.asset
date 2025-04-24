@@ -16,8 +16,8 @@ MonoBehaviour:
   _author: Ardot66
   _version: 1.0.0
   _description: The minimap is no longer accessible by default, requiring an upgrade
-    from the shop instead. Also allows players to zoom the map and upgrade view range
-    with further upgrades. Highly configurable.
+    from the shop instead. Also allows players to zoom the map and increase view
+    range with further upgrades. Highly configurable.
   _websiteUrl: https://github.com/Ardot66/REPO.MapUpgrade
   _dependencies:
   - Zehs-REPOLib-2.0.1
