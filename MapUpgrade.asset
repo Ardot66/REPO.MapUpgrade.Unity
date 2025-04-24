@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1558716956, guid: a7a2c402c2ba47047a5c63cdb65bc92d, type: 3}
+  m_Name: MapUpgrade
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 114545933413459953, guid: 844956dfec499d145999f9fb40307949, type: 3}
